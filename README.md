@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rony123777
 - 👀 I’m interested in ...People
-- 🌱 I’m currently learning ...WebDev.
+- 🌱 I’m currently learning ...Data Scince.
 - 💞️ I’m looking to collaborate on ...Anything just through at me
 - 📫 How to reach me ...FakeMail: narutoron123777@gmail.com
 
