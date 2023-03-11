@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohan Bhoi
-- 👀 I’m interested in Data Science, Data Analytics,Business Interligence
+- 👀 I’m interested in Data Science, Data Analytics,business intelligence
 - 🌱 I’m currently learning Data Analytics and Data Science.
 - 📫 How to reach me: narutoron123777@gmail.com
 
