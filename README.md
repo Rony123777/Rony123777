@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan Bhoi
 - 👀 I’m interested in Data Science, Data Analytics,business intelligence
 - 🌱 I’m currently learning Data Analytics and Data Science.
-- 📫 How to reach me: narutoron123777@gmail.com
+- 📫 How to reach me: rohanoff123@gmail.com
 
 <!---
 Rony123777/Rony123777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
