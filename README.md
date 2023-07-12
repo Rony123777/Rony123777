@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Rohan Bhoi
-- 👀 I’m interested in Data Science, Data Analytics,business intelligence
-- 🌱 I’m currently learning Data Analytics and Data Science.
-- 📫 How to reach me: rohanoff123@gmail.com
+### Hi there 
+##I am Rohan Bhoi
 
-<!---
-Rony123777/Rony123777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Enthusiastic and experienced Data Analyst and Business Analyst with a passion for leveraging data to drive insightful decision-making. Proficient in Excel, Power BI, MySQL, Tableau, and Python, adept at analyzing complex datasets and creating compelling visualizations. Proven track record of delivering actionable insights to optimize business performance and identify growth opportunities. Strong problem-solving skills combined with a detail-oriented approach, ensuring accurate and reliable analysis. Committed to continuous learning and staying abreast of emerging trends in data analysis and visualization.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanBhoi&show_icons=true&theme=transparent)
